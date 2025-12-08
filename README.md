@@ -15,7 +15,7 @@ A passionate frontend developer from Hungary 🇭🇺 — I build clean, user-fr
 
 - [FlashCord](https://github.com/Drowys22/FlashCord---Discord-Bot) — My Discord Bot
 - [host-tracker](https://github.com/Drowys22/host_tracker) — Library/tool for X with quick features list.
-- [Calculator](https://github.com/Drowys22) — Coming soon
+- [Calculator](https://github.com/Drowys22/Calculator) — Coming soon
 
 ---
 
